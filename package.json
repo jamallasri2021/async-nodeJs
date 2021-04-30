@@ -1,0 +1,19 @@
+{
+  "name": "async-nodejs",
+  "version": "1.0.0",
+  "description": "Code asynchrone",
+  "main": "async.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamallasri2021/async-nodeJs.git"
+  },
+  "author": "JLASRI1527",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamallasri2021/async-nodeJs/issues"
+  },
+  "homepage": "https://github.com/jamallasri2021/async-nodeJs#readme"
+}
