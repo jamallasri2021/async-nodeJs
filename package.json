@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jamallasri2021/async-nodeJs.git"
+    "url": "git+http://github.com/jamallasri2021/async-nodeJs.git"
   },
   "author": "JLASRI1527",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jamallasri2021/async-nodeJs/issues"
+    "url": "http://github.com/jamallasri2021/async-nodeJs/issues"
   },
-  "homepage": "https://github.com/jamallasri2021/async-nodeJs#readme"
+  "homepage": "http://github.com/jamallasri2021/async-nodeJs#readme"
 }
